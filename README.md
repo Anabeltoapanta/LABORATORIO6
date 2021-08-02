@@ -9,9 +9,13 @@ MEJÍA CESAR
 
 Objetivo General
 
-
+* Desarrollar el sistema planteado utilizando el teorema de maxima transferencia de potencia
 
 Objetivos Específicos
+
+* Calcular las corrientes, voltajes, y potencias específicas para cada RL planteado.
+* Comparar las potencias obtenidas para resaltar la máxima trasferencia de potencia.
+* Mostrar la eficacia del proceso para obtener la máxima transferencia de potencia, utilizando los conocimientos previos.
 
 **2.MARCO TEÓRICO**
 
