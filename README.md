@@ -36,8 +36,6 @@ link del video
 
 **6. CONCLUSONES**
 
-* Conclusiones
-
 * Se entiende que es necesario reducir el sistema, para poder definir de manera correcta el teorema de máxima transferencia de potencia.
 * La resistencia de Thevenin marca la resistencia  efectiva para la máxima transferencia de potencia
 * Al medir las potencias con las diferentes resistencias propuestas obtenemos que la maxima transferencia de potencia se obtiene con el resistor de 1k ohm
