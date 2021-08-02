@@ -111,7 +111,7 @@ Cuando RL = 1200 ohm
 * Se entiende que es necesario reducir el sistema, para poder definir de manera correcta el teorema de máxima transferencia de potencia.
 * La resistencia de Thevenin marca la resistencia  efectiva para la máxima transferencia de potencia
 * Al medir las potencias con las diferentes resistencias propuestas obtenemos que la maxima transferencia de potencia se obtiene con el resistor de 1k ohm
- 
+* La potencia maxima obtenida tras las mediciones con las diferentes resistencias planteadas fue de 46,37 w.
 
 **7. BIBLIOGRAFÍA**
 
