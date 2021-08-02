@@ -91,6 +91,12 @@ La siguiente tabla muestra los datos calculados juntos con los datos medidos
 
 ![image](https://user-images.githubusercontent.com/85134094/127877800-a27b36c5-ee37-4eb1-a6c3-facc4fa9a3df.png)
 
+Por ultimo se muestra el simulador  dcaclab el cual nos permitió simular como podemos medir la potencia de un circuito como se muestra a continuacion 
+
+cabe destacar que solo utilizamos la resisitencia de 1.2 k y la de 220 ohm con un voltaje de 12 v
+
+![image](https://user-images.githubusercontent.com/85134094/127880164-f77bd930-1b71-4da0-b6e0-b0d53db6e857.png)
+
 **¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
 Si se cumple como observamos en los resultados la resistencia particular es la que mas potencia tiene y esto se debe a que es la mas cercana a la resistencia de thevenin
