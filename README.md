@@ -15,7 +15,7 @@ Objetivos Específicos
 
 **2.MARCO TEÓRICO**
 
-
+![](https://github.com/Anabeltoapanta/LABORATORIO6/blob/main/Marco%20Te%C3%B3rico.jpg)
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
